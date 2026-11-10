@@ -73,3 +73,7 @@ g++ main.cpp -o delivery
 **Daim Ali**
 
 Computer Science Student | C++ Developer
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daim_Ali-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daimx1214/)
